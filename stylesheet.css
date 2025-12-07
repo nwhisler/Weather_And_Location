@@ -1,0 +1,26 @@
+body {
+    display: grid;
+    place-items: center;
+    min-height: 100vh;
+    margin: 0;
+    background-color: black;
+}
+
+.thermometer {
+    height: 400px;
+    width: 200px;
+    background-color: aqua;
+    position: absolute;
+}
+
+.container {
+    height: 400px;
+    width:200px;
+    background-color: white;
+
+}
+
+.readOut {
+    float: right;
+    color: white;
+}
