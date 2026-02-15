@@ -58,6 +58,8 @@ In `script.js`, replace the placeholder value in the API request URL with your A
 ```javascript
 const apiKey = "YOUR_API_KEY_HERE";
 ```
+* A free tier api key is provided for a trial run of the program
+
 
 ### 3. Run the App
 
