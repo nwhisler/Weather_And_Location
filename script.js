@@ -1,6 +1,6 @@
 let lat = 0.0;
 let long = 0.0;
-let apiKey = "e9f510d9184b40d4954172953251711";
+let apiKey = "api_key";
 let baseURL = "http://api.weatherapi.com/v1"
 let extension = "/current.json"
 let completeURL = "";
@@ -89,5 +89,6 @@ function getTemp(position) {
         })
 
     
+
 
 }
